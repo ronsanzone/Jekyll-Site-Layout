@@ -153,6 +153,10 @@
         padding-top: 20px;
         color: #fff;
     }
+    /* Information page css */
+    #infoWrapper {
+        padding-top: 10px;
+    }
 
     /* RESPONSIVE CSS
     -------------------------------------------------- */
