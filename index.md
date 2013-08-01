@@ -7,36 +7,33 @@ layout: carousel-marketing
     <div class="span4">
         <img class="img-circle" data-src="http://placehold.it/140/">
         <h2>About</h2>
-        <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
+        <p>
+            SHB Landscape is a loacally owned and operated landscaping company,
+            based out of Bowleys Quarter, Maryland. We offer high quality 
+            landscaping services adn take pride in the work that we provide...
+        </p>
         <p><a class="btn" href="/about/">View details »</a></p>
     </div><!-- /.span4 -->
     <div class="span4">
         <img class="img-circle" data-src="http://placehold.it/140/">
         <h2>Pricing</h2>
-        <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+        <p>
+            SHB Lanscape provided top notch services at competitive prices. 
+            different plans and options that can be talored to fit anyone's needs.
+            Starting at a basic lawn cut and going all the way to a full 
+            landscaping redisign, SHB Landscape can provide services to anyone...
+        </p>
         <p><a class="btn" href="/pricing/">View details »</a></p>
     </div><!-- /.span4 -->
     <div class="span4">
         <img class="img-circle" data-src="http://placehold.it/140/">
         <h2>Contact</h2>
-        <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+        <p>
+            SHB Landscape provides lawn care to clients in the greater Baltimore 
+            area. If you are interested in becomming a values client at SHB 
+            Landscape, please contact us today! 
+        </p>
         <p><a class="btn" href="/contact/">View details »</a></p>
     </div><!-- /.span4 -->
 </div><!-- /.row -->
-<div style="text-align:center;">
-   <a href="http://www.homeadvisor.com/biz/scottbowerman/">
-      <img src="http://www.homeadvisor.com/images/smpros/soap-download/soap-badge.png" alt="Scott Bowerman Reviews" style="border:none;">
-   </a>
-   <a href="http://www.homeadvisor.com/c.Landscaping.Bel_Air.MD.-12046.html" class="soap-caption" style="font-weight:bold;font-family:Arial,sans-serif;text-decoration:none;color:black;font-size:12px;display:block;">
-      Screened and Approved<br>
-      <span class="work-category">Landscape Contractors</span>
-      <span class="service-area">in Bel Air</span>
-   </a>
-</div>
-
-
-Angieslist:
-
-<table style="width: 133px; background-color: white; color: black;" cellpadding="0" cellspacing="0"><tr><td><a href="http://www.angieslist.com/companylist/?cid=badge"><img src="http://reviews.angieslist.com/webbadges/sp/wb_small_green_cap.aspx" alt="Read Unbiased Consumer Reviews Online at AngiesList.com" width="133" border="0" /></a></td></tr><tr><td align="center" style="color: black; font-family: arial, sans-serif; font-size: 12px; border: none; padding: 7px;"><a href="http://www.angieslist.com/companylist/baltimore/lawn-and-yard-work.htm?cid=badge" style="color:blue;">Lawn Service in Baltimore</a></td></tr></table>
-
 
